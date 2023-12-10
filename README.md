@@ -1,6 +1,6 @@
 # Jornada-AI 
 
-## Projeto Jornada AI da ebac 
+projeto EBAC Jornada AI
 
 realizar um jogo do dinossauro do google que funciona por inteligencia artificial utilizando javascript 
 <div align="center">
