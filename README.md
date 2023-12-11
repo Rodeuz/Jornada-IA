@@ -15,7 +15,7 @@ para iniciar a IA
 
 - ative o script.js no liveserver
 
-- Acesse: <a target="_blank">chrome://dino/ </a>
+- Acesse: <a href="chrome://dino/" target="_blank"> chrome://dino/ </a> (Só funciona no google chrome)
 
 - abra o DevTools/Inspecionar e coloque o codigo abaixo no console
 
